@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770813885196",
+    "project_id": "risco-ambiental",
+    "storage_bucket": "risco-ambiental.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770813885196:android:ef73ced0ed20f072972729",
+        "android_client_info": {
+          "package_name": "com.example.risco_ambiental"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDghe3x12pLea-9lKZ2MgLiA6iWBUWyOvY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
